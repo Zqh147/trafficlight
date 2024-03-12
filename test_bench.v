@@ -17,7 +17,7 @@ sequence_generator uut (
     .reset(reset),
     .switch(switch),
     .out(out),
-    .counter(counter)
+    .counter(counter)//1111
 );
 
 // 生成时钟信号
